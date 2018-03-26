@@ -1,3 +1,2 @@
-ct:
-  common:
-        message: This message is common to all applications.
+common:
+      message: This message is common to all applications.
