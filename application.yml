@@ -1,2 +1,2 @@
 common:
-      message: This message is changed but common to all applications.
+      message: This message is common to all applications.
