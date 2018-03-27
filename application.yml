@@ -1,2 +1,2 @@
 common:
-      message: This message is common to all applications for prod environment.
+      message: This message is common to all applications environment.
